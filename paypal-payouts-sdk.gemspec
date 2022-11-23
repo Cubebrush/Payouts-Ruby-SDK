@@ -4,7 +4,7 @@ require 'core/version'
 
 Gem::Specification.new do |spec|
   spec.name        = 'paypal-payouts-sdk'
-  spec.version     = PayPal::VERSION
+  spec.version     = '1.0.3'
   spec.summary     = "This repository contains PayPal's Ruby SDK for Payouts REST API"
   spec.description = "This repository contains PayPal's Ruby SDK for Payouts REST API"
   spec.authors     = ["http://developer.paypal.com"]
